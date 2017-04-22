@@ -8,7 +8,10 @@ const sites = [
   'https://qa-admin.find.earth',
 
   'https://find.earth',
-  'https://qa.find.earth'
+  'https://qa.find.earth',
+  
+  'https://alertasolidaria.com',
+  'https://qa.alertasolidaria.com',
 ]
 
 sites.forEach(site => {
