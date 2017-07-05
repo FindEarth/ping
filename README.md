@@ -1,5 +1,7 @@
 # ⚡️ Ping
 
+> ### DEPRECATED: now you can just do `now scale 1`
+
 > Script to wake up `now` deployments. Ideally this should be run in a cron job.
 
 ```bash
